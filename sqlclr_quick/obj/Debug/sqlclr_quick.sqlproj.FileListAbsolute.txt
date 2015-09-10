@@ -1,0 +1,9 @@
+c:\users\charles\documents\visual studio 2013\Projects\sqlclr_quick\sqlclr_quick\bin\Debug\sqlclr_quick.dacpac
+c:\users\charles\documents\visual studio 2013\Projects\sqlclr_quick\sqlclr_quick\bin\Debug\sqlclr_quick.dll
+c:\users\charles\documents\visual studio 2013\Projects\sqlclr_quick\sqlclr_quick\bin\Debug\sqlclr_quick.pdb
+c:\users\charles\documents\visual studio 2013\Projects\sqlclr_quick\sqlclr_quick\obj\Debug\sqlclr_quick.dll
+c:\users\charles\documents\visual studio 2013\Projects\sqlclr_quick\sqlclr_quick\obj\Debug\sqlclr_quick.pdb
+C:\Users\CHARLES\documents\visual studio 2013\Projects\sqlclr_quick\sqlclr_quick\obj\Debug\Model.xml
+C:\Users\CHARLES\documents\visual studio 2013\Projects\sqlclr_quick\sqlclr_quick\obj\Debug\refactor.xml
+C:\Users\CHARLES\documents\visual studio 2013\Projects\sqlclr_quick\sqlclr_quick\obj\Debug\postdeploy.sql
+C:\Users\CHARLES\documents\visual studio 2013\Projects\sqlclr_quick\sqlclr_quick\obj\Debug\predeploy.sql

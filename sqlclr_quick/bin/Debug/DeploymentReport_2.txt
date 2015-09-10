@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [sqlclr_quick] (Assembly)
+     Create
+       [sqlclr_quick] (Assembly)
+
+** Supporting actions
+     Drop
+       [dbo].[Greeting] (Function)
+     Create
+       [dbo].[Greeting] (Function)
